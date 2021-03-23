@@ -54,7 +54,7 @@ string operations are safe but time consuming. So, 'char array' (speedy, less op
 
 Here's why `string` is safer than character array
 
- - Careful programmers like you, can overrun to the end of 
+ - Careless programmers, can overrun to the end of 
 an array that holds a null terminated (null character `\0`) string.
  - for example - *see below*
  - string class handles such issues.
