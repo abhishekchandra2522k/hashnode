@@ -11,7 +11,7 @@ Still don't know what these statement do?<br>
 Let's read this node to head start your journey in STL.
 
 **Standard Template Libraries** are powerful set of [C++ template classes](https://abhishekchandra.hashnode.dev/templates-in-cpp). It contains numerous pre-defined classes and are used to make programming easier.<br>
-Consider Standard Template Libraries as a helping hand for not writing codes for implementing Data Structures like `Linked Lists`, `Stacks`, `Queues`,  `Trees` etc.  in every program we require them (mostly in competitive programming questions), we can use these data structures by just including a library and using a pre-defined syntax.<br>
+Consider Standard Template Libraries as a helping hand for not writing codes to implement Data Structures like `Linked Lists`, `Stacks`, `Queues`,  `Trees` etc.  in every program we require them (mostly in competitive programming questions), we can use these data structures by just including a library and using a pre-defined syntax.<br>
 Also, classes in Standard Template Libraries are made through [template classes](https://abhishekchandra.hashnode.dev/templates-in-cpp) so these are generic in nature.
 
 
