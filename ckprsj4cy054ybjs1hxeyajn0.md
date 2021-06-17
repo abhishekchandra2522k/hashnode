@@ -40,7 +40,7 @@ At the core of the C++ Standard Template Libraries, these are the following thre
  - **Unordered Associative Containers** : These are similar to associative containers but have different constraints, the elements are stored unordered due to the use of hash tables while implementing these containers.
 
 #### How to use containers?
-When we use containers to implement data structures, we just have to include a header file and use the respective syntax to initialise the data structure you need.
+When we use containers to implement data structures, we just have to include a header file or use the respective directive to initialise the data structure you need.
 ```
 #include<bits/stdc++.h>
 ```
@@ -76,7 +76,7 @@ int main(){
 
 
 ## Algorithms
- - Algorithms act on containers. They provide the means by which you will perform sorting, searching, and transforming of the contents of container.
+ - Algorithms act on containers. They provide the means by which you will perform sorting, searching, and transforming on the contents of container.
  - Algorithms Library contains built-in functions that perform complex algorithms on the data structures. 
 
 Example: 
