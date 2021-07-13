@@ -12,9 +12,9 @@ Prior to learning Asymptotic Notations, Let's see what is ***rate of growth*** o
 **Rate of growth** is nothing but the rate at which the run time complexity of the algorithm increases as a function of the input.<br>
 Let's suppose we have to purchase a laptop and a mouse. If someone asks you what are you purchasing, then in general you will say buying a laptop and ignore buying the mouse part. This is because, cost of laptop is too big compared to cost of mouse. So, we can say
 
-`Total Cost = cost_of_laptop + cost_of_mouse`
+<center>`Total Cost = cost_of_laptop + cost_of_mouse`</center>
 
-`Total Cost ≈ cost_of_laptop (approximately)`
+<center>`Total Cost ≈ cost_of_laptop (approximately)`</center>
 
 For the above mentioned example, we can represent the cost of laptop and cost of mouse as a function and for a given function, we can ignore the lower order terms (that are relatively insignificant for large value of input size, n). Let us consider another example in terms of algebra, let n<sup>4</sup>, n<sup>2</sup>, 100n and 5 are individual costs of some function, here we can approximate this function to n<sup>4</sup> i.e. the highest rate of growth.
 
@@ -55,7 +55,7 @@ There are three types of analysis:
   - algorithm which performs average number of steps on input data of size n.
 
 
-`Lower Bound <= Average Time <= Upper Bound`
+<center>`Lower Bound <= Average Time <= Upper Bound`</center>
 
 <br><br>
 
@@ -215,4 +215,4 @@ If the recurrence relation is of the form, ** T(n) = aT(n / b) + Θ(n<sup>k</sup
  b. If p < 0, then T(n) = O(n<sup>k</sup>)
 
 
-Thank You!
+<center>Thank You!</center>
