@@ -85,24 +85,8 @@ Example:
  - Algorithm Libraries provide abstraction, i.e. you don't necessarily need to know how the algorithm works.
 
 *Sorting of a vector*
-```
-#include<bits/stdc++.h>
 
-using namespace std;
-
-int main(){
- vector<int>second_vector {44,22,66,33,99};
-
-// begin() and end() method returns an iterator to the vector.
- sort(second_vector.begin(), second_vector.end());
- return 0;
-}
-
-/* 
-Above code will sort the vector to {22,33,44,66,99}.
-More about vector will be covered in a separate node.
-*/
-```
+<iframe style='max-width:100%; border: none' height=375 width=700 src=https://www.interviewbit.com/embed/snippet/c259affc45a5d8bc8a31 title='Interviewbit Ide snippet/c259affc45a5d8bc8a31' loading="lazy" allow="clipboard-write" allowfullscreen></iframe>
 
 ## Iterators
  - Iterators are used to step through the elements of collection of objects. These collections can be containers or subsets of containers.
@@ -123,23 +107,7 @@ vector<int> :: iterator itr;
 Example use of iterator:
 
 *Printing elements of a vector*
-```
-#include<bits/stdc++.h>
 
-using namespace std;
-
-int main(){
-    vector<int> third_vector {10,20,30,40,50};
-    vector<int> :: iterator itr;
-    for(itr = third_vector.begin(); itr != third_vector.end(); itr++){
-        cout<<*itr<<" ";
-    }
-    return 0;
-}
-
-/*
-OUTPUT : 10 20 30 40 50 
-*/
-```
+<iframe style='max-width:100%; border: none' height=375 width=700 src=https://www.interviewbit.com/embed/snippet/7440b7182e95d1e09db9 title='Interviewbit Ide snippet/7440b7182e95d1e09db9' loading="lazy" allow="clipboard-write" allowfullscreen></iframe>
 
 Visit [this](https://github.com/abhishekchandra2522k/CPPrograms/tree/master/Standard%20Template%20Library%20) to view some Standard Template Libraries programs.
