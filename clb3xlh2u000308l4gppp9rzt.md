@@ -44,7 +44,7 @@ Let's suppose, we have been given an array `[4, 3, 5, 2, 1]` (sorted array shoul
 
 **Step 3:** Again, we are finding the maximum element's index and performing the swap with the current array space's last index. Here, `2` is the max element with index 0, so we swap it with the value `1` having index 1 (the last index in the current array search space).
 
-![selection_max4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669828161522/VuIT3euMg.png align="left")
+![selection_max4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669830380442/Tc-12gur5.png align="left")
 
 **Note:** As we have completed **Step 3**, our array is now sorted completely. We don't have to check for the remaining one element (`1`) in the array as when the (n-1) elements of the array become sorted the last element is automatically sorted. (`n: size of the array`)
 
