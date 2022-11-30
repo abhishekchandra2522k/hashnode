@@ -124,7 +124,9 @@ We can use a flag to check if any swap has taken place on the array or not. If n
 
 # Space and Time Complexity Analysis for Bubble Sort
 
-## Time Complexity 
+Recommended to visit [Asymptotic Notations](https://abhishekchandra.hashnode.dev/asymptotic-notations) and [Guidelines for Asymptotic Notations](https://abhishekchandra.hashnode.dev/guidelines-for-asymptotic-notations).
+
+## Time Complexity for Bubble Sort
 
 **Best Case:** When the array is sorted, the optimized bubble sort algorithm takes **O(n)** time.
 
@@ -132,7 +134,7 @@ We can use a flag to check if any swap has taken place on the array or not. If n
 
 **Average Case:** As we are running two loops for the length of the array, the average case time complexity also comes out to be **O(n<sup>2</sup>)**.
 
-## Space Complexity
+## Space Complexity for Bubble Sort
 
 Space complexity for the bubble sort algorithm is **O(1)**, as it is an in-place sorting algorithm and doesn't take up any extra space to sort the array.
 
