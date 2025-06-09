@@ -1,4 +1,14 @@
-## Standard Template Library in C++
+---
+title: "Standard Template Library in C++"
+seoTitle: "Standard Template Libraries in C++"
+seoDescription: "Learn about STL (Standard Template Libraries) in C++, containers, algorithms, and iterators."
+datePublished: Fri Jun 11 2021 03:49:08 GMT+0000 (Coordinated Universal Time)
+cuid: ckprsj4cy054ybjs1hxeyajn0
+slug: standard-template-library-in-cpp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622908855144/JvRswWrrb.png
+tags: cpp, libraries, template, competitive-programming
+
+---
 
 ```
 vector<int> LET_S;
