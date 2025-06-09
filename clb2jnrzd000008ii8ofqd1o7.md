@@ -1,4 +1,14 @@
-# Bubble Sort Algorithm Explained!
+---
+title: "Bubble Sort Algorithm Explained!"
+seoTitle: "Bubble Sort Algorithm with Java program"
+seoDescription: "Bubble sort is a comparison sorting algorithm which is used to sort an array. It is an in-place and stable algorithm which takes O(n^2) TC and O(1) SC."
+datePublished: Tue Nov 29 2022 18:20:06 GMT+0000 (Coordinated Universal Time)
+cuid: clb2jnrzd000008ii8ofqd1o7
+slug: bubble-sort
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669729215093/my76EXhfg.png
+tags: sorting, blogswithcc
+
+---
 
 # Introduction
 
