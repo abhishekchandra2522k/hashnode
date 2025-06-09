@@ -1,4 +1,14 @@
-# Selection Sort Algorithm Explained!
+---
+title: "Selection Sort Algorithm Explained!"
+seoTitle: "Selection Sort Algorithm Explained!"
+seoDescription: "Selection sort algorithm use an approach to find the max or the min element in an array at each step and then perform put it at its correct index."
+datePublished: Wed Nov 30 2022 17:37:59 GMT+0000 (Coordinated Universal Time)
+cuid: clb3xlh2u000308l4gppp9rzt
+slug: selection-sort
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669746424070/v_iez23WV.png
+tags: sorting, blogswithcc
+
+---
 
 In the previous article, I explained how the [Bubble Sort algorithm](https://abhishekchandra.hashnode.dev/bubble-sort) works. Please have look at the Bubble Sort algorithm first before reading this article as it will be easier for you to learn the Selection Sort algorithm having Bubble Sort in mind. So, let's begin with this article now!
 
