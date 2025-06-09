@@ -1,4 +1,14 @@
-## Guidelines for Asymptotic Notations
+---
+title: "Guidelines for Asymptotic Notations"
+seoTitle: "Guidelines for Asymptotic Notations"
+seoDescription: "Learn about Asymptotic Notations and Guidelines to calculate the time complexity of a program."
+datePublished: Thu Jul 22 2021 06:05:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckreifs4t0js691s1cp9f8ltp
+slug: guidelines-for-asymptotic-notations
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626174522528/bODxj3g-4.png
+tags: cpp, programming, data-structures
+
+---
 
 There are some general rules to help us determine the running time of an algorithm.
 We will see how to calculate running time of :
