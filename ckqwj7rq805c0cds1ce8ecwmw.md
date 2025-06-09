@@ -1,4 +1,14 @@
-## Asymptotic Notations
+---
+title: "Asymptotic Notations"
+seoTitle: "Asymptotic Notations"
+seoDescription: "Asymptotic Notations and Analysis of Algorithms"
+datePublished: Fri Jul 09 2021 16:06:55 GMT+0000 (Coordinated Universal Time)
+cuid: ckqwj7rq805c0cds1ce8ecwmw
+slug: asymptotic-notations
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1624082731708/DPxRkQOYx.png
+tags: algorithms, data-structures
+
+---
 
 The objective of this node is to explain Analysis of Algorithms and Asymptotic Notations i.e. **Big-O, Omega-Ω, and Theta-Θ.** These topics are the most basic foundation for Data Structures and Algorithms. 
 
