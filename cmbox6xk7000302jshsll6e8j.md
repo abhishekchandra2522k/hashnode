@@ -39,8 +39,6 @@ This gets confusing, as you will not be sure if Abhishek is the same user who re
 
 A database is a collection of data and also a method for us to access and manipulate that data.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731243068946/868d8d93-5f55-423f-8cd7-a10919aa2982.webp align="center")
-
 #### Most Popular Databases:
 
 1. MySQL
