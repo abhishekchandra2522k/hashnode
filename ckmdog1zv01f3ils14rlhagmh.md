@@ -1,4 +1,14 @@
-## Strings in C++
+---
+title: "Strings in C++"
+seoTitle: "Strings in C++"
+datePublished: Wed Mar 17 2021 16:46:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckmdog1zv01f3ils14rlhagmh
+slug: strings-in-c
+canonical: https://dev.to/abhishekchandra2522k/strings-in-c-6ih
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615999521218/4anIzGsyf.png
+tags: cpp, competitive-programming, string
+
+---
 
 Youkoso!
 
