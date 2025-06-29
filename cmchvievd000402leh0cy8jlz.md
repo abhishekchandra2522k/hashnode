@@ -133,7 +133,7 @@ We have seen how to break down data, and each time, we’ve done so by identifyi
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750864246078/c60dce8a-f715-40fe-947d-e2a472f470fc.png align="center")
 
-We can see that at the top we have things as *id, firstName, lastName, sex, dob* \- these are called columns and each column represents a specific data type (*incrementing* *numbers, string, string, char, date)*. Next to the columns we have rows of data, and each and every row is a singular piece of data. (A table is a collections of rows and columns).
+We can see that at the top we have things as *id, firstName, lastName, sex, dob* - these are called columns and each column represents a specific data type (*incrementing* *numbers, string, string, char, date)*. Next to the columns we have rows of data, and each and every row is a singular piece of data. (A table is a collections of rows and columns).
 
 The relationship between an excel sheet and the relational model is very close, except in the relational model, a table has much more nuance. There’s a lot more detail here, we are very-very specific on what we want to store and how we want to store our data. Now, let’s take a closure look at the terminologies of a relational table.
 
@@ -189,7 +189,7 @@ AND THAT’S A WRAP!
 
 ## Outro
 
-We started with the older models like hierarchical and network, then saw how the relational model changed the game by making data easier to organize and understand. You also learned the teminologies of relational database model - what tables, rows, columns, and keys actually mean and why they matter.
+We started with the older models like hierarchical and network, then saw how the relational model changed the game by making data easier to organize and understand. You also learned the terminologies of relational database model - what tables, rows, columns, and keys actually mean and why they matter.
 
 In the next post, we’ll look at OLAP (Online Analytical Processing) and OLTP (Online Transaction Processing) and how these concepts come together.
 
