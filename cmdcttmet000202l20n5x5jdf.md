@@ -1,5 +1,7 @@
 ---
 title: "OLTP vs OLAP: Understanding the Key Differences"
+seoTitle: "OLTP vs OLAP: Understanding the Key Differences"
+seoDescription: "OLTP vs OLAP: Understanding the Key Differences"
 datePublished: Mon Jul 21 2025 08:11:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmdcttmet000202l20n5x5jdf
 slug: oltp-vs-olap-understanding-the-key-differences
